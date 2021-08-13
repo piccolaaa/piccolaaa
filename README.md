@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Sou uma jovem padawan no mundo mágico da programação
+- 🔭 Jovem padawan no mundo mágico da programação
 - 
 <div>
   <a href="https://github.com/piccolaaa">
