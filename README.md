@@ -1,8 +1,8 @@
-### Hello! Eu sou a Piccola 👋
+### Hello!  👋
 
 
 
-- 🔭 Jovem padawan no mundo mágico da programação
+- 🔭 
 - 
 <div>
   <a href="https://github.com/piccolaaa">
